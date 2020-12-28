@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BeekFrontendChallenge/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/BeekFrontendChallenge/static/js/main.d6b0ac09.chunk.js",
+    "main.js.map": "/BeekFrontendChallenge/static/js/main.d6b0ac09.chunk.js.map",
+    "runtime-main.js": "/BeekFrontendChallenge/static/js/runtime-main.7aac4bea.js",
+    "runtime-main.js.map": "/BeekFrontendChallenge/static/js/runtime-main.7aac4bea.js.map",
+    "static/js/2.7298c0a0.chunk.js": "/BeekFrontendChallenge/static/js/2.7298c0a0.chunk.js",
+    "static/js/2.7298c0a0.chunk.js.map": "/BeekFrontendChallenge/static/js/2.7298c0a0.chunk.js.map",
+    "static/js/3.f7b22256.chunk.js": "/BeekFrontendChallenge/static/js/3.f7b22256.chunk.js",
+    "static/js/3.f7b22256.chunk.js.map": "/BeekFrontendChallenge/static/js/3.f7b22256.chunk.js.map",
+    "index.html": "/BeekFrontendChallenge/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/BeekFrontendChallenge/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.7298c0a0.chunk.js.LICENSE.txt": "/BeekFrontendChallenge/static/js/2.7298c0a0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/BeekFrontendChallenge/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7aac4bea.js",
+    "static/js/2.7298c0a0.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.d6b0ac09.chunk.js"
+  ]
+}
